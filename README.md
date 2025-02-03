@@ -1,2 +1,2 @@
 # python-notes
-This repo contains notes for python 
+This repo contains notes from Python for Data Analysis book
